@@ -10,7 +10,7 @@ export const metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className="min-h-screen bg-background text-foreground bg-fixed">
+      <body className="min-h-screen bg-background text-foreground">
         <main className="container mx-auto py-10 px-4">{children}</main>
       </body>
     </html>
