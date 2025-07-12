@@ -28,7 +28,6 @@
 ## 📁 Project Structure
 
 ```
-blog-summariser/
 ├── public/                # Static assets (SVGs, icons)
 ├── src/
 │   ├── app/
