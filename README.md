@@ -95,14 +95,17 @@
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="public/globe.svg" alt="Blog Summariser UI" width="400"/>
+  <img src="public/Page.png" alt="Blog Summariser UI" width="400"/>
+  <img src="public/Input.png" alt="Blog Summariser UI" width="400"/>
+  <img src="public/English.png" alt="Blog Summariser UI" width="400"/>
+  <img src="public/Urdu.png" alt="Blog Summariser UI" width="400"/>
 </p>
 
 ---
 
 ## 📦 Deployment
 
-Deploy easily on [Vercel](https://vercel.com/) or your preferred platform.
+You can also test it on [Blog Summarizer](https://blog-summarizer-plum.vercel.app/).
 
 ---
 
